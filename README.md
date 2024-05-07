@@ -1,5 +1,5 @@
-# Kinova addon for C++ console applications
-This repository contains my customized addons for Kinova C++ console applications.
+# KinovaGen2 addon for C++ console applications
+This repository contains my customized addons for KinovaGen2 C++ console applications.
 
 As a student, I faced difficulties in developing practical applications for my research, projects, and experiments.
 Managing multiple APIs or libraries within a single main() function was especially challenging.
