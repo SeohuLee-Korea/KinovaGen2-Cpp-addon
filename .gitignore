@@ -1,0 +1,7 @@
+CommandLayer.h
+CommunicationLayer.h
+KinovaTypes.h
+CommandLayerEthernet.dll
+CommandLayerWindows.dll
+CommunicationLayerEthernet.dll
+CommunicationLayerWindows.dll
